@@ -1,0 +1,18 @@
+# indirilen ikon varliklari repoya girmez (lisans) — `python tools/fetch_icons.py`
+.cache/
+theme/icons/
+theme/_preview.png
+tools/_sheet_*.png
+tools/_cands.png
+
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# yerel gecici dosyalar
+.tmp/
+native/build/
+native/.theos/
